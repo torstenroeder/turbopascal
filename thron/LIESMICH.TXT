@@ -1,0 +1,94 @@
+*** Thron - Die Dritte ***
+--------------------------
+
+Folgende Dateien müssen sich in einem Verzeichnis befinden, damit Thron fehlerfrei läuft:
+
+1. Thron3gr.exe (deutsche Tastaturbelegung)
+   oder Thron3us.exe (für US-Tastatur)
+2. egavga.bgi (Grafiktreiber)
+3. sans.chr (Schriftsatz)
+
+Starte Thron aus dem eigenen Verzeichnis, so daß es darin die Dateien "Players.dat" und "Setup.dat" erzeugen kann, falls diese nicht schon vorhanden sein sollten. Diese Dateien werden später von Thron benötigt, da die Spieleinstellungen und die Spielerdaten darin gespieichert werden.
+
+Thron wurde in Turbo Pascal 7.0 geschrieben und auf einem K6-233 compiliert.
+
+Anregungen und Anmerkungen zum Spiel (sehr gerne) oder Bugmeldungen (weniger gerne) heiße ich jederzeit unter willkommen. Einfach eine EMail an: Torsten_Roeder@public.uni-hamburg.de
+
+Das Spielprinzip sollte hinlänglich bekannt sein und bedarf daher wohl keiner weiteren Erläuterung.
+
+
+
+Deine Optionen im Hauptbildschirm:
+----------------------------------
+
+* Spielerauswahl mit den Tasten 1..6
+  Wähle aus der Liste einen belegten oder leeren Eintrag aus.
+  Ein neuer Spieler kann erstellt werden, wenn ein leerer Eintrag gewählt wird.
+  "PC" bezeichnet einen Computerspieler.
+  Ein Name kann mehrfach im Spiel vertreten sein, dadurch lassen sich z.B. Teams bilden.
+
+* A - Acceleration: Beschleunigung im Spiel.
+
+* B - Border:       Auswahl aus verschieden Levels.
+
+* C - Chaos:        Ob die Spieler parallel fahren können.
+
+* D - Directions:   Triangles.....drei Richtungen, Winkel 120°
+                    96° Madness...unregelmäßig, Winkel 96°
+                    Classic.......vier Richtungen, Winkel 90°
+                    PentaThron....fünf Richtungen, Winkel 72°
+                    HexaThron.....sechs Richtungen, Winkel 60°
+                    OctoThron.....acht Richtungen, Winkel 45°
+                    Crash Cars....zwölf Richtungen, Winkel 30°
+
+* E - Detonation:   Auswahl aus verschiedenen Explosionseffekten.
+
+* I - Ignore Mode:  Ob die Spieler über eigene Linien fahren dürfen.
+
+* K - Kill Player:  Löscht einen Eintrag aus der Teilnehmerliste.
+
+* L - League Table: Zeigt die aktuelle Teilnehmerliste an.
+                    Geordnet wird nach dem "Rating".
+
+                    Rating....statistische Wahrscheinlichkeit,
+                              daß ein Gegner besiegt wurde.
+                    Score.....besiegte Gegner
+                    Crashes...verlorene Spiele
+                    Games.....begonnene Spiele
+                    Result....Differenz aus Siegen/Niederlagen
+
+                                   Score+Games-Crashes
+                    Rating = 100 * -------------------
+                                         2*Games
+
+* M - Time Limit:   Wählt ein Zeitlimit für die Runden.
+
+* N - Noise:        Schaltet das Geräusch an/aus.
+
+* P - Players:      Anzahl der Spieler, 2 bis 6 möglich.
+
+* R - Rounds:       Gibt an, wie oft der gewählte Level
+                    gespielt werden soll. Wird im Turniermodus
+                    automatisch bestimmt.  
+
+* S - Speed:        Startgeschwindigkeit im Spiel.
+
+* T - Tournament:   Im Turnier werden alle Level
+                    nacheinander durchgespielt.
+
+* Enter - Startet das Spiel.
+
+* Escape - Beendet das Programm.
+
+
+Deine Optionen im Spiel:
+------------------------
+
+* Escape: laufendes Spiel beenden
+
+* Rücktaste: Pause an/aus
+
+* F1..F6: Computergegner töten (Schummelfunktion, Überbleibsel aus der Testphase)
+
+
+Viel Spaß!
