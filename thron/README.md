@@ -2,9 +2,9 @@
 
 ## How to start
 
-Executable files are available at [http://repo.elitepiraten.de/thron3.zip](repo.elitepiraten.de).
+Executable files are available at [repo.elitepiraten.de](http://repo.elitepiraten.de/thron3.zip).
 
-You will need an emulator like [https://www.dosbox.com](DOSBox) to start the game.
+You will need an emulator like [DOSBox](https://www.dosbox.com) to start the game.
 
 ## Files
 
