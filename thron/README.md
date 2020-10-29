@@ -8,7 +8,7 @@ A game for up to six human or computer players, based on the arcade game »Light
 
 Executable files are available here:
 
-[![Thron - download now!](THRON.PNG)](http://repo.elitepiraten.de/thron3.zip)
+[![Thron - download now!](THRON.PNG)](http://turbo.elitepiraten.de/thron3.zip)
 
 You will need an emulator like [DOSBox](https://www.dosbox.com) to start the game.
 
