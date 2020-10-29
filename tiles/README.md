@@ -11,7 +11,8 @@ A combination board game for one player. The task is to arrange 72 tiles on a re
 * Each tile has a color and a symbol. There are six colors and six symbols. Each tile exists twice.
 * The game starts with six tiles on the board.
 * A tile must be placed next to another tile, and it must match either color or symbol of all adjacent tiles.
-* The tile to be placed is randomly drawn, and you will see only one tile at a time.
+* No tile on the board can match the color or the symbol of adjacent tiles more than twice.
+* The tile to be placed is drawn randomly, and you will see only one tile at a time.
 * You can undo one turn at any point of the game, but not more than one.
 
 The game ends when all 66 tiles have been placed on the board or when the player resigns, e.g. when it is impossible to place the tile.
