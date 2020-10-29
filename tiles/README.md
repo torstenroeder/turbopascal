@@ -39,6 +39,7 @@ You will need an emulator like [DOSBox](https://www.dosbox.com) to start the gam
 
 ## Files
 
+* LICENSE.TXT - license information
 * README.md - this document
 * TILEHIGH.DAT - highscore records
 * TILES.PAS - Turbo Pascal source code
