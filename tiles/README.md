@@ -4,6 +4,8 @@
 
 A combination board game for one player. The task is to arrange 72 tiles on a rectangular 12x8 board.
 
+![Tiles Screenshot](TILES.PNG)
+
 ### Rules
 
 * Each tile has a color and a symbol. There are six colors and six symbols. Each tile exists twice.
@@ -24,8 +26,6 @@ The secondary task is to score as many points as possible. You get points for pl
 * 4 tiles: 8 points
 
 Highscores are saved in a separate file. Can you beat 123 points?
-
-[![Tiles Screenshot](TILES.PNG)]
 
 ## Background information
 
