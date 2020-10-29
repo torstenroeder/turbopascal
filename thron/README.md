@@ -19,5 +19,5 @@ You will need an emulator like [DOSBox](https://www.dosbox.com) to start the gam
 * README.TXT - English manual
 * LICENSE.TXT - license information
 * THRON.PNG - image for download link
-* THRON3GR.PAS - sourcecode for German keyboard layout
-* THRON3US.PAS - sourcecode for US keyboard layout
+* THRON3GR.PAS - Turbo Pascal sourcecode for German keyboard layout
+* THRON3US.PAS - Turbo Pascal sourcecode for US keyboard layout
