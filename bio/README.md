@@ -45,4 +45,5 @@ You will need an emulator like [DOSBox](https://www.dosbox.com) to start the gam
 To John Conway, who passed away on 11 April 2020 on complications on COVID-19.
 
 ![RIP John Conway](https://imgs.xkcd.com/comics/rip_john_conway.gif)
+
 (Source: https://xkcd.com/2293/, CC BY-NC 2.5)
