@@ -1,6 +1,23 @@
 # MANDEL
 
-Four visualizations of Mandelbrot and Julia set.
+Four visualization programs of [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia set](https://en.wikipedia.org/wiki/Julia_set).
+
+## Files
+
+* MANDEL.PAS - Turbo Pascal source code
+* MANDEL.PNG - a screenshot
+* MANDEL2.PAS - Turbo Pascal source code
+* MANDEL2.PNG - a screenshot
+* MANDEL3.PAS - Turbo Pascal source code
+* MANDEL3.PNG - a screenshot
+* MANDEL4.PAS - Turbo Pascal source code
+* MANDEL4.PNG - a screenshot
+* LICENSE.TXT - license information
+* README.md - this document
+
+### Binaries
+
+An executable file is available here: [tiles.zip](http://turbo.elitepiraten.de/tiles.zip)
 
 ## Screenshots
 
