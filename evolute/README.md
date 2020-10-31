@@ -16,7 +16,7 @@ This simulation features four states: EBENE, GRAS, HASE, and WOLF (plains, grass
 * GRAS becomes HASE if there is a HASE nearby. (= rabbits procreate on grass)
 * HASE becomes WOLF if there is a WOLF nearby. (= wolves eat rabbits)
 * WOLF becomes EBENE. (= wolves just die)
-	
+
 ### EVOLUTE2
 
 This simulation features five states: EBENE, GRAS, HASE, WOLF, and MENSCH (plains, grass, rabbit, wolf, human).
@@ -30,7 +30,11 @@ This simulation features five states: EBENE, GRAS, HASE, WOLF, and MENSCH (plain
 * WOLF becomes MENSCH if there is a MENSCH nearby, otherwise it becomes EBENE. (= wolves are shot or they just die)
 * MENSCH becomes EBENE if there is a MENSCH nearby. (= humans kill each other)
 
-## How to run the simulation
+## Controls
+
+Press or hold `space` to start the simulation, `backspace` to enter another number of cycles and `esc` to end the program.
+
+## How to run the program
 
 Executable files are available here: [evolute.zip](http://turbo.elitepiraten.de/evolute.zip)
 
