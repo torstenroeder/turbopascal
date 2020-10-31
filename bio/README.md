@@ -36,6 +36,10 @@ This is more like an actual game. You get points for generating life. You have a
 
 Executable files are available here: [bio.zip](http://turbo.elitepiraten.de/bio.zip)
 
+## Screenshot
+
+![a screenshot from BIO.PAS](BIO.PNG)
+
 ## A Tribute
 
 To John Conway, who passed away on 11 April 2020 on complications on COVID-19.
