@@ -50,6 +50,7 @@ Executable files are available here: [evolute.zip](http://turbo.elitepiraten.de/
 
 ## Screenshot
 
-![a screenshot from EVOLUTE2.PAS](EVOLUTE2.PNG)
+_from EVOLUTE2:_ Things do not look too great for the wolves at this moment. But as long as there are enough rabbits around, the wolves' chance to recover is higher than that to die out.
 
-_Screenshot from EVOLUTE2: Things do not look too great for the wolves at this moment. But as long as there are enough rabbits around, the wolves' chance to recover is higher than that to die out._
+![screenshot from EVOLUTE2.PAS](EVOLUTE2.PNG)
+

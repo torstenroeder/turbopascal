@@ -38,7 +38,9 @@ Executable files are available here: [bio.zip](http://turbo.elitepiraten.de/bio.
 
 ## Screenshot
 
-![a screenshot from BIO.PAS](BIO.PNG)
+_from BIO.PAS:_
+
+![screenshot from BIO.PAS](BIO.PNG)
 
 ## A Tribute
 
