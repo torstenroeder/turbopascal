@@ -34,19 +34,22 @@ This simulation features five states: EBENE, GRAS, HASE, WOLF, and MENSCH (plain
 
 In this world, it is possible (but not likely) that the wolves go extinct.
 
+![Screenshot](EVOLUTE2.PNG)
+
+Things do not look too great for the wolves in this screenshot. But as long as there are enough rabbits around, the wolves' chance to recover is higher than that to die out.
+
 ## Controls
 
 Press or hold any key to start the simulation. Press `backspace` to enter another number of cycles and `esc` to end the program.
-
-## How to run the program
-
-Executable files are available here: [evolute.zip](http://turbo.elitepiraten.de/evolute.zip)
-
-You will need an emulator like [DOSBox](https://www.dosbox.com) to start the game.
 
 ## Files
 
 * EVOLUTE.PAS - Turbo Pascal sourcecode
 * EVOLUTE2.PAS - Turbo Pascal sourcecode
+* EVOLUTE2.PAS - a screenshot
 * LICENSE.TXT - license information
 * README.md - this document
+
+### Binaries
+
+Executable files are available here: [evolute.zip](http://turbo.elitepiraten.de/evolute.zip)

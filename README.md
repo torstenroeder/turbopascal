@@ -2,6 +2,8 @@
 
 This is a vintage collection of some early programming work in Turbo Pascal.
 
+You will need an emulator like [DOSBox](https://www.dosbox.com) to start the programs. You can also compile the source code yourself in an environment like [TPWDB](https://turbopascal-wdb.sourceforge.io).
+
 ## Bio
 
 A collection of implementations of Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).

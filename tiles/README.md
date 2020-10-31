@@ -36,12 +36,6 @@ Pretty self-explaining. The current tile is displayed on the left. Use `â†‘` `â†
 
 I think the game was once presented in a computer magazine, and I just cloned it.
 
-## How to run the game
-
-An executable file is available here: [tiles.zip](http://turbo.elitepiraten.de/tiles.zip)
-
-You will need an emulator like [DOSBox](https://www.dosbox.com) to start the game.
-
 ## Files
 
 * LICENSE.TXT - license information
@@ -49,3 +43,8 @@ You will need an emulator like [DOSBox](https://www.dosbox.com) to start the gam
 * TILEHIGH.DAT - highscore records
 * TILES.PAS - Turbo Pascal source code
 * TILES.PNG - a screenshot
+
+### Binaries
+
+An executable file is available here: [tiles.zip](http://turbo.elitepiraten.de/tiles.zip)
+

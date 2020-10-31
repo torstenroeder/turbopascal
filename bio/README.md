@@ -24,12 +24,6 @@ Needs to be fixed. Something about the mouse does not work anymore.
 
 This is more like an actual game. You get points for generating life. You have a limited number of cells you can put on the board, and time is also limited. Highscores are recorded. My classmate Thomas beat all my records by scoring nearly 4,000,000 points (no idea how). Keyboard controls.
 
-## How to run the simulation
-
-Executable files are available here: [bio.zip](http://turbo.elitepiraten.de/bio.zip)
-
-You will need an emulator like [DOSBox](https://www.dosbox.com) to start the game.
-
 ## Files
 
 * BIO.PAS - Turbo Pascal sourcecode
@@ -39,6 +33,10 @@ You will need an emulator like [DOSBox](https://www.dosbox.com) to start the gam
 * BIOHIGH.DAT - highscore records
 * LICENSE.TXT - license information
 * README.md - this document
+
+### Binaries
+
+Executable files are available here: [bio.zip](http://turbo.elitepiraten.de/bio.zip)
 
 ## A Tribute
 
