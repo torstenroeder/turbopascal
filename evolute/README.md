@@ -8,8 +8,6 @@ A simple [predator-prey simulation](https://en.wikipedia.org/wiki/Lotka%E2%80%93
 
 The simulation takes place on a grid. The squares are populated by either grass, rabbits or wolves (or also humans). Each step in time, one square is determined randomly. Depending on the population on that square and on the surrounding squares, specific rules are applied.
 
-## Variants
-
 ### EVOLUTE
 
 This simulation features four states: EBENE, GRAS, HASE, and WOLF (plains, grass, rabbit, wolf).
