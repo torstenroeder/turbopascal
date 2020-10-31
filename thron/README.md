@@ -1,7 +1,5 @@
 # THRON
 
-## What is Thron?
-
 A game for up to six human or computer players, based on the arcade game »Lightcycles« from the famous movie »[Tron](https://www.imdb.com/title/tt0084827/)«.
 
 ## Files

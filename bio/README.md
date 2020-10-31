@@ -1,7 +1,5 @@
 # BIO
 
-## What is Bio?
-
 A collection of implementations of John Horton Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) from the 1970s. It is more a simulation than a game. I implemented this around 1995 after I had read about Conway's Game in a book or a magazine.
 
 ## Variants

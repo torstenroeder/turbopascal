@@ -1,10 +1,8 @@
 # TILES
 
-## What is Tiles?
-
 A combination board game for one player. The task is to arrange 72 tiles on a rectangular 12x8 board.
 
-![Tiles Screenshot](TILES.PNG)
+The game was once presented in a computer magazine, and I just cloned it.
 
 ### Rules
 
@@ -32,10 +30,6 @@ Highscores are saved in a separate file. Can you beat 123 points? What is your s
 
 Pretty self-explaining. The current tile is displayed on the left. Use `↑` `←` `↓` `→` to move the cursor, and press `Enter` to place a tile. In case you are stuck or lazy, `H` displays all possible positions for the current tile. If there is no valid position, press `U` to undo your turn or `E` to end the current game (highscores will still be applied).
 
-## Background information
-
-I think the game was once presented in a computer magazine, and I just cloned it.
-
 ## Files
 
 * LICENSE.TXT - license information
@@ -48,3 +42,6 @@ I think the game was once presented in a computer magazine, and I just cloned it
 
 An executable file is available here: [tiles.zip](http://turbo.elitepiraten.de/tiles.zip)
 
+## Screenshot
+
+![Tiles Screenshot](TILES.PNG)

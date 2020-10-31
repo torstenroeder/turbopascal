@@ -19,3 +19,7 @@ A game for up to six human or computer players, based on the arcade game »Light
 ## Tiles
 
 A tile board game for one player. The task is to arrange 72 tiles on a rectangular 12x8 board. ASCII visuals.
+
+## Units
+
+A small library of custom procedures and functions.

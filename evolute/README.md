@@ -1,7 +1,5 @@
 # EVOLUTE
 
-## What is Evolute?
-
 A simple [predator-prey simulation](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) in two variants.
 
 ## Rules
@@ -34,10 +32,6 @@ This simulation features five states: EBENE, GRAS, HASE, WOLF, and MENSCH (plain
 
 In this world, it is possible (but not likely) that the wolves go extinct.
 
-![Screenshot](EVOLUTE2.PNG)
-
-Things do not look too great for the wolves in this screenshot. But as long as there are enough rabbits around, the wolves' chance to recover is higher than that to die out.
-
 ## Controls
 
 Press or hold any key to start the simulation. Press `backspace` to enter another number of cycles and `esc` to end the program.
@@ -53,3 +47,9 @@ Press or hold any key to start the simulation. Press `backspace` to enter anothe
 ### Binaries
 
 Executable files are available here: [evolute.zip](http://turbo.elitepiraten.de/evolute.zip)
+
+## Screenshot
+
+![Screenshot](EVOLUTE2.PNG)
+
+_Screenshot from EVOLUTE2: Things do not look too great for the wolves at this moment. But as long as there are enough rabbits around, the wolves' chance to recover is higher than that to die out._
