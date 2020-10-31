@@ -1,9 +1,14 @@
 # turbopascal
+
 This is a vintage collection of some early programming work in Turbo Pascal.
 
 ## Bio
 
-A collection of implementations of John Horton Conway's Game of Life from the 1970s.
+A collection of implementations of Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
+
+## EVOLUTE
+
+A [predator-prey simulation](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) in two variants, featuring rabbits, wolves, and humans.
 
 ## Thron
 
