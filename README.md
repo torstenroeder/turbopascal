@@ -16,6 +16,9 @@ Alternatively, you can compile the source code yourself in an environment like [
 **[Evolute](../../tree/main/evolute)**
 – A predator-prey simulation with rabbits, wolves, and humans, in two variants.
 
+**[Land](../../tree/main/bio)**
+– A configurable generator for geographic maps.
+
 **[Mandel](../../tree/main/mandel)**
 – Four visualization programs of Mandelbrot and Julia set.
 
