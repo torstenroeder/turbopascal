@@ -30,7 +30,7 @@ In MANDEL, MANDEL2 and MANDEL3, parameters can be modified only directly in the 
 
 ### Binaries
 
-An executable file is available here: [tiles.zip](http://turbo.elitepiraten.de/tiles.zip)
+Executable files are available here: [mandel.zip](http://turbo.elitepiraten.de/mandel.zip)
 
 ## Screenshots
 
