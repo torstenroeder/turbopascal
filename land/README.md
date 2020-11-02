@@ -29,13 +29,8 @@ An executable file is available here: [land.zip](http://turbo.elitepiraten.de/la
 _Some maps, each generated with another method:_
 
 ![a screenshot from LAND.PAS](LAND1.PNG)
-
 ![a screenshot from LAND.PAS](LAND2.PNG)
-
 ![a screenshot from LAND.PAS](LAND3.PNG)
-
 ![a screenshot from LAND.PAS](LAND4.PNG)
-
 ![a screenshot from LAND.PAS](LAND5.PNG)
-
 ![a screenshot from LAND.PAS](LAND6.PNG)
