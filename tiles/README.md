@@ -32,7 +32,6 @@ Pretty self-explaining. The current tile is displayed on the left. Use `â†‘` `â†
 
 ## Files
 
-* LICENSE.TXT - license information
 * README.md - this document
 * TILEHIGH.DAT - highscore records
 * TILES.PAS - Turbo Pascal source code

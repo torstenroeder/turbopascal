@@ -25,7 +25,6 @@ In MANDEL, MANDEL2 and MANDEL3, parameters can be modified only directly in the 
 * MANDEL3.PNG - a screenshot
 * MANDEL4.PAS - Turbo Pascal source code
 * MANDEL4.PNG - a screenshot
-* LICENSE.TXT - license information
 * README.md - this document
 
 ### Binaries

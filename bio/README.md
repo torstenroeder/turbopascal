@@ -29,7 +29,6 @@ This is more like an actual game. You get points for generating life. You have a
 * BIO3.PAS - Turbo Pascal sourcecode
 * BIO5.PAS - Turbo Pascal sourcecode
 * BIOHIGH.DAT - highscore records
-* LICENSE.TXT - license information
 * README.md - this document
 
 ### Binaries

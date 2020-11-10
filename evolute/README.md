@@ -41,7 +41,6 @@ Press or hold any key to start the simulation. Press `backspace` to enter anothe
 * EVOLUTE.PAS - Turbo Pascal sourcecode
 * EVOLUTE2.PAS - Turbo Pascal sourcecode
 * EVOLUTE2.PAS - a screenshot
-* LICENSE.TXT - license information
 * README.md - this document
 
 ### Binaries

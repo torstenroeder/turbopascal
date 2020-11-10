@@ -4,7 +4,6 @@ A game for up to six human or computer players, based on the arcade game »Light
 
 ## Files
 
-* LICENSE.TXT - license information
 * LIESMICH.TXT - German manual
 * README.md - this document
 * README.TXT - English manual

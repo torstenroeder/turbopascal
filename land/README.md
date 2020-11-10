@@ -17,7 +17,6 @@ Press `F1`..`F10` to modify the parameters, and `1`..`6` to start with one of th
 * LAND4.PNG - a screenshot
 * LAND5.PNG - a screenshot
 * LAND6.PNG - a screenshot
-* LICENSE.TXT - license information
 * README.md - this document
 
 ### Binaries
