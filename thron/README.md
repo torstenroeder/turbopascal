@@ -8,6 +8,7 @@ A game for up to six human or computer players, based on the arcade game »Light
 * LIESMICH.TXT - German manual
 * README.md - this document
 * README.TXT - English manual
+* THRON.GIF - screencast
 * THRON.PNG - image for download link
 * THRON3GR.PAS - Turbo Pascal sourcecode for German keyboard layout
 * THRON3US.PAS - Turbo Pascal sourcecode for US keyboard layout
@@ -17,3 +18,7 @@ A game for up to six human or computer players, based on the arcade game »Light
 Executable files are available here:
 
 [![Thron - download now!](THRON.PNG)](http://turbo.elitepiraten.de/thron3.zip)
+
+### Screencast
+
+![Thron - Scene from 'The Arena'](THRON.GIF)
