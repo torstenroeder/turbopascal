@@ -14,7 +14,7 @@ Your task is to sink the enemy fleet! Click on the grid to shoot. `X` is a hit. 
 
 ### Binaries
 
-Executable files are available here: [attacks.zip](http://turbo.elitepiraten.de/attacks.zip)
+An executable file is available here: [attacks.zip](http://turbo.elitepiraten.de/attacks.zip)
 
 ## Screenshot
 
