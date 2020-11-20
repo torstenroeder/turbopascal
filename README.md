@@ -18,11 +18,14 @@ For compiling, you possibly need to adjust the path in `initgraph(gd,gm,'..\BGI'
 **[Bio](../../tree/main/bio)**
 – Four implementations of Conway's »Game of Life«.
 
+**[Brown](../../tree/main/brown)**
+– An »Brownian surface« algorithm that generates a random geographic map.
+
 **[Evolute](../../tree/main/evolute)**
 – A predator-prey simulation with rabbits, wolves, and humans, in two variants.
 
 **[Land](../../tree/main/land)**
-– A configurable generator for geographic maps.
+– A configurable generator for random geographic maps.
 
 **[Mandel](../../tree/main/mandel)**
 – Four visualization programs of Mandelbrot and Julia set.
