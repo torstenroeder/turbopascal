@@ -19,16 +19,21 @@ Executable files are available here: [attacks.zip](http://turbo.elitepiraten.de/
 ## Screenshot
 
 It seems we spent as much time on the intro as on the game.
+
 ![title screen from ATTACKS.PAS](ATTACKS1.PNG)
 
 We noticed later that the ship placing algorithm favored the top left corner.
+
 ![screenshot from ATTACKS.PAS](ATTACKS2.PNG)
 
 First ship sunk.
+
 ![screenshot from ATTACKS.PAS](ATTACKS3.PNG)
 
 Well, you need more hits for a highscore record.
+
 ![screenshot from ATTACKS.PAS](ATTACKS4.PNG)
 
 Marksman Max: 17 hits, 7 misses.
+
 ![highscore table from ATTACKS.PAS](ATTACKS5.PNG)
