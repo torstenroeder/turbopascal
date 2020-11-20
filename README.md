@@ -8,6 +8,8 @@ You will need an emulator like [DOSBox](https://www.dosbox.com) to start the pro
 
 Alternatively, you can compile the source code yourself in an environment like [TPWDB](https://turbopascal-wdb.sourceforge.io).
 
+For compiling, you possibly need to adjust the path in `initgraph(gd,gm,'..\BGI')` to whereever your Turbo Pascal BGI path is.
+
 ## Projects
 
 **[Attacks](../../tree/main/attacks)**
