@@ -1,6 +1,6 @@
 # ATTACKS
 
-A simple PvE implementation of the "Battleships". I programmed in 1994 this with my high school mate. Original highscore records included.
+A simple PvE implementation of »Battleships«. I programmed this in 1994 with my high school mate Thomas. Original highscore records included.
 
 ## How to play
 
