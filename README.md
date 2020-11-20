@@ -10,6 +10,9 @@ Alternatively, you can compile the source code yourself in an environment like [
 
 ## Projects
 
+**[Attacks](../../tree/main/attacks)**
+– A PvE implementation of »Battleships«.
+
 **[Bio](../../tree/main/bio)**
 – Four implementations of Conway's »Game of Life«.
 
