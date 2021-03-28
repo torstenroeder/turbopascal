@@ -36,5 +36,8 @@ For compiling, you possibly need to adjust the path in `initgraph(gd,gm,'..\BGI'
 **[Tiles](../../tree/main/tiles)**
 – A tile board game for one player. Can you arrange all tiles on the board? ASCII visuals.
 
+**[Turtle](../../tree/main/turtle)**
+– Some turtle recursion graphics in tree and geometric style.
+
 **[Units](../../tree/main/units)**
 – A small library of custom procedures and functions.
